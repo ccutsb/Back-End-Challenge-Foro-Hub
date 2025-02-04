@@ -1,5 +1,4 @@
 # Back-End-Challenge-Foro-Hub
-Challenge Foro Hub
 
 Este proyecto es una aplicación backend desarrollada con Spring Boot, diseñada para el manejo de foros en línea. La estructura del proyecto está configurada con Maven como gestor de dependencias y sigue el esquema de una aplicación moderna y escalable.
 Configuración del Proyecto

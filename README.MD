@@ -1,5 +1,3 @@
-![logo](src/main/resources/asset/img/logo2.webp)
-
 # Challenge Foro Hub
 
 Este proyecto es una aplicación backend desarrollada con Spring Boot, diseñada para el manejo de foros en línea. La estructura del proyecto está configurada con Maven como gestor de dependencias y sigue el esquema de una aplicación moderna y escalable.
@@ -213,7 +211,3 @@ src
   © 2024 Cristian Cortés B. Todos los derechos reservados.  
   Este proyecto está protegido por las leyes de derechos de autor y no puede ser reproducido, distribuido ni utilizado sin autorización previa.
   ```
-
-<div style="text-align: rigt;">
-    <img src="src/main/resources/asset/img/logo.webp" width="300" height="300">
-</div>
